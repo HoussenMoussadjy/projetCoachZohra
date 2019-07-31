@@ -1,0 +1,21 @@
+.collapse {
+    padding-left: 5rem;
+}
+
+.mrgn-rgt {
+    padding-left: 0.7rem;
+}
+
+.no-p {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.c-img, .c-img-2, .c-img-3 {
+    height: 850px;
+}
+
+.info {
+    padding-right: 0.7rem;
+    padding-left: 0.7rem;
+}
