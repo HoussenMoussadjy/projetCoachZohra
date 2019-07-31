@@ -19,3 +19,7 @@
     padding-right: 0.7rem;
     padding-left: 0.7rem;
 }
+
+.text-drk {
+    color: black /*!important*/;
+}
