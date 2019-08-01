@@ -11,8 +11,8 @@
     margin-left: -15px;
 }
 
-.c-img, .c-img-2, .c-img-3 {
-    height: 850px;
+.c-img {
+    max-height: 850px;
 }
 
 .info {
@@ -20,6 +20,19 @@
     padding-left: 0.7rem;
 }
 
-.text-drk {
-    color: black /*!important*/;
+.info-2 {
+    padding-right: 0.7rem;
+}
+
+.prgph-1 {
+    font-size: 28px;
+}
+
+.fnt {
+    font-size: 24px;
+}
+
+.background {
+    background: url("assets/graph_coaching.png");
+    background-size: cover;
 }
