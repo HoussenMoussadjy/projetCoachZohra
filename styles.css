@@ -1,11 +1,21 @@
 .background {
     background: url("assets/OSER.jpg");
     background-size: cover;
+    padding-top: 14rem;
+    padding-bottom: 8rem;
+    padding-left: 5rem;
 }
 
 .background-2 {
     background: url("assets/ouistreham.jpg");
     background-size: cover;
+    padding-top: 14rem;
+    padding-bottom: 8rem;
+    padding-left: 13.5rem;
+}
+
+.background-3 {
+    background-color: antiquewhite;
 }
 
 .collapse {
@@ -22,7 +32,12 @@
 }
 
 .c-img {
-    max-height: 725px;
+    max-height: 720px;
+}
+
+.img-2 {
+    width: 104%;
+    height: 572px;
 }
 
 .info {
@@ -60,5 +75,19 @@
 }
 
 .text-light {
-    background-color: #1a1a1a;
+    background-color: #2a2a2a;
+}
+
+.light-text {
+    color: white;
+}
+
+.paddn-tp {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.img-weight {
+    height: 85%;
+    padding-top: 1.5rem;
 }
