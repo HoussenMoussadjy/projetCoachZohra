@@ -3,7 +3,8 @@
     background-size: cover;
     padding-top: 14rem;
     padding-bottom: 8rem;
-    padding-left: 5rem;
+    padding-left: 7rem;
+    color: white;
 }
 
 .background-2 {
@@ -66,12 +67,16 @@
 }
 
 .fnt-4 {
-    padding-top: 3rem;
+    padding-top: 4rem;
     padding-bottom: 3rem;
 }
 
 .fnt-5 {
     font-size: 13px;
+}
+
+.fnt-5 {
+    padding-top: 3rem;
 }
 
 .img {
@@ -93,8 +98,8 @@
 }
 
 .paddn-tp-2 {
-    padding-top: 3rem;
-    padding-bottom: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 3rem;
 }
 
 .img-weight {
@@ -102,3 +107,6 @@
     padding-top: 1.5rem;
 }
 
+.material-icons.md-20 {
+    font-size: 20px;
+}
