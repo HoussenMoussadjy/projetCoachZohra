@@ -3,7 +3,7 @@
     background-size: cover;
     padding-top: 14rem;
     padding-bottom: 8rem;
-    padding-left: 6rem;
+    padding-left: 5rem;
 }
 
 .background-2 {
@@ -59,11 +59,15 @@
 
 .fnt-2 {
     font-size: 21px;
-    padding-top: 2rem;
 }
 
 .fnt-3 {
     font-size: 36px;
+}
+
+.fnt-4 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 .fnt-5 {
@@ -89,12 +93,12 @@
 }
 
 .paddn-tp-2 {
-    padding-top: 2rem;
-    padding-bottom: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
 }
 
 .img-weight {
-    height: 85%;
+    height: 80%;
     padding-top: 1.5rem;
 }
 
