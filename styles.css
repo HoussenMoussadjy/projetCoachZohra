@@ -38,7 +38,12 @@
 
 .img-2 {
     width: 102%;
-    height: 572px;
+    height: 520px;
+}
+
+.img-3 {
+    width: 100%;
+    height: 522px;
 }
 
 .info {
@@ -115,4 +120,16 @@
 .rounded-circle {
     height: 275px;
     width: 275px;
+}
+
+.fnt-7 {
+    padding-bottom: 2.5rem;
+}
+
+.fnt-8 {
+    font-size: 24px;
+}
+
+.text-danger {
+    letter-spacing: 2px;
 }
