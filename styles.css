@@ -3,9 +3,9 @@
     background-size: cover;
     padding-top: 14rem;
     padding-bottom: 8rem;
-    padding-left: 7rem;
+    padding-left: 9rem;
     color: white;
-    margin-right: 15px;
+    margin-right: 14px;
     max-width: 48.5%;
 }
 
@@ -14,7 +14,7 @@
     background-size: cover;
     padding-top: 13.5rem;
     padding-bottom: 10rem;
-    padding-left: 16rem;
+    padding-left: 4rem;
     max-width: 49%;
 }
 
@@ -126,7 +126,7 @@
 }
 
 .fnt-8 {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .text-danger {
@@ -134,5 +134,9 @@
 }
 
 .fnt-9 {
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Neucha', cursive;
+}
+
+.img-4 {
+    height: 300px
 }
