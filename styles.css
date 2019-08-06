@@ -3,7 +3,6 @@
     background-size: cover;
     padding-top: 14rem;
     padding-bottom: 8rem;
-    padding-left: 9rem;
     color: white;
     margin-right: 14px;
     max-width: 48.5%;
@@ -81,7 +80,7 @@
 }
 
 .fnt-6 {
-   padding-top: 1.5rem;
+    padding-top: 1.5rem;
 }
 
 .img {
@@ -108,8 +107,8 @@
 }
 
 .img-weight {
-    height: 80%;
-    padding-top: 1.5rem;
+    height: 75%;
+    padding-top: 5rem;
 }
 
 .material-icons.md-20 {
