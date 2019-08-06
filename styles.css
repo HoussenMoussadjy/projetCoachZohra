@@ -5,6 +5,8 @@
     padding-bottom: 8rem;
     padding-left: 7rem;
     color: white;
+    margin-right: 15px;
+    max-width: 48.5%;
 }
 
 .background-2 {
@@ -13,10 +15,7 @@
     padding-top: 13.5rem;
     padding-bottom: 10rem;
     padding-left: 16rem;
-}
-
-.background-3 {
-    background-color: aquamarine;
+    max-width: 49%;
 }
 
 .collapse {
@@ -132,4 +131,8 @@
 
 .text-danger {
     letter-spacing: 2px;
+}
+
+.fnt-9 {
+    font-family: 'Fredoka One', cursive;
 }
