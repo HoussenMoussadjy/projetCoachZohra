@@ -18,7 +18,7 @@
 }
 
 .fas {
-    margin-right: 12px;
+    margin-right: 14px;
 }
 
 .collapse {
@@ -148,11 +148,27 @@
 }
 
 .border-right {
-    margin-right: 4.5rem;
+    margin-right: 3.5rem;
 }
 
 .border-2 {
-    margin-top: 3.5rem;
+    margin-top: 3rem;
     margin-bottom: 5rem;
+    margin-left: 3rem;
+}
 
+.color-bl {
+    color: #1d949b;
+}
+
+.color-org {
+    color: #e38f25;
+}
+
+.color-grn {
+    color: green;
+}
+
+.color-pnk {
+    color: palevioletred;
 }
