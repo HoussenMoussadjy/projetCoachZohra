@@ -26,6 +26,8 @@
 
 .collapse {
     padding-left: 5rem;
+    font-family: 'Marvel', sans-serif;
+    font-size: 19px;
 }
 
 .mrgn-rgt {
@@ -67,21 +69,24 @@
 }
 
 .prgph-2 {
-    font-size: 35px;
+    font-size: 33px;
     margin-bottom: 15rem;
     letter-spacing: 0.4rem;
 }
 
 .fnt {
-    font-size: 24px;
+    font-size: 29px;
+    font-family: 'Marvel', sans-serif;
 }
 
 .fnt-2 {
-    font-size: 21px;
+    font-size: 24px;
+    font-family: 'Marvel', sans-serif;
 }
 
 .fnt-3 {
     font-size: 36px;
+    font-family: 'Marvel', sans-serif;
 }
 
 .fnt-4 {
@@ -89,7 +94,7 @@
 }
 
 .fnt-5 {
-    font-size: 13px;
+    font-size: large;
     padding-top: 1rem;
 }
 
@@ -118,6 +123,7 @@
 .paddn-tp-2 {
     padding-top: 7rem;
     padding-bottom: 6rem;
+    font-family: 'Marvel', sans-serif;
 }
 
 .img-weight {
@@ -143,7 +149,8 @@
 }
 
 .fnt-8 {
-    font-size: 22px;
+    font-size: 25px;
+    font-family: 'Marvel', sans-serif;
 }
 
 .text-danger {
@@ -182,4 +189,9 @@
 
 .color-pnk {
     color: palevioletred;
+}
+
+.fnt-11 {
+    padding-top: 1rem;
+    font-size: 20px;
 }
