@@ -4,9 +4,10 @@
     padding-top: 14rem;
     padding-bottom: 8rem;
     color: white;
-    margin-right: 14px;
+    margin-right: 13px;
     max-width: 48.5%;
     letter-spacing: 0.2rem;
+    padding-left: 3.5rem;
 }
 
 .background-2 {
@@ -62,13 +63,13 @@
 .prgph-1 {
     font-size: 35px;
     margin-bottom: 18.5rem;
-    letter-spacing: 0.3rem;
+    letter-spacing: 0.4rem;
 }
 
 .prgph-2 {
     font-size: 35px;
     margin-bottom: 15rem;
-    letter-spacing: 0.3rem;
+    letter-spacing: 0.4rem;
 }
 
 .fnt {
