@@ -7,7 +7,6 @@
     margin-right: 13px;
     max-width: 48.5%;
     letter-spacing: 0.2rem;
-    padding-left: 3.5rem;
 }
 
 .background-2 {
@@ -49,6 +48,10 @@
 
 .fnt-bld {
     font-weight: bold ;
+}
+
+.undrlind {
+
 }
 
 .color-bl {
