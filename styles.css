@@ -19,6 +19,20 @@
     letter-spacing: 0.3rem;
 }
 
+.background-3 {
+    background: url("assets/DONNER_LA_MAIN3.jpg");
+    background-size: cover;
+    height: 500px;
+    margin-right: 70px;
+}
+
+.background-4 {
+    background: url("assets/SAUT_ANNEE_ANNEE.jpg");
+    background-size: cover;
+    height: 500px;
+    margin-left: 70px;
+}
+
 .fas {
     margin-right: 14px;
 }
@@ -42,36 +56,26 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.fnt-sz-1 {
-    font-size: 21px;
+main {
+    font-size: 18px;
 }
 
-.fnt-bld {
-    font-weight: bold ;
+.undrlnd {
+    text-decoration: underline;
 }
 
-.undrlind {
-
+.margin-tp-btm {
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
 }
 
-.color-bl {
-    color: #1d949b;
+.margin-tp {
+    margin-top: 3.5rem;
 }
 
-.color-org {
-    color: #e38f25;
-}
-
-.color-grn {
-    color: green;
-}
-
-.color-pnk {
-    color: palevioletred;
-}
-
-.mrgn-rgt {
-    padding-left: 0.7rem;
+.padding-tp-btm {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .no-p {
@@ -79,18 +83,12 @@
     margin-left: -15px;
 }
 
+.border-right {
+    padding-right: 3rem;
+}
+
 .c-img {
     height: 720px;
-}
-
-.img-2 {
-    width: 97%;
-    height: 390px;
-}
-
-.img-3 {
-    width: 94%;
-    height: 390px;
 }
 
 .info {
@@ -103,28 +101,22 @@
 }
 
 .prgph-1 {
-    font-size: 35px;
-    margin-bottom: 14.5rem;
+    font-size: 30px;
+    margin-bottom: 18.5rem;
     letter-spacing: 0.4rem;
 }
 
 .prgph-2 {
-    font-size: 33px;
-    margin-bottom: 13rem;
+    font-size: 30px;
+    margin-bottom: 15.5rem;
     letter-spacing: 0.4rem;
-}
-
-.fnt-4 {
-    padding-top: 4rem;
 }
 
 .fnt-5 {
     font-size: medium;
-    padding-top: 1rem;
 }
 
 .fnt-6 {
-    padding-top: 1.5rem;
     padding-left: 9rem;
 }
 
@@ -141,18 +133,9 @@
     color: white;
 }
 
-.paddn-tp {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
-.paddn-tp-2 {
-    padding-top: 5rem;
-    padding-bottom: 4rem;
-}
-
 .img-weight {
-    height: 425px;
+    height: 350px;
+    margin-left: 1.5rem;
 }
 
 .material-icons.md-17 {
@@ -164,47 +147,16 @@
     width: 275px;
 }
 
-.fnt-7 {
-    padding-bottom: 4rem;
-    padding-top: 2.5rem;
-    padding-right: 3rem;
-}
-
-.fnt-10 {
-    margin-bottom: 5rem;
-}
-
 .text-danger {
     letter-spacing: 2px;
 }
 
 .img-4 {
-    height: 350px;
+    height: 310px;
 }
 
 .img-5 {
-    height: 375px;
-}
-
-.border-right {
-    margin-right: 3rem;
-    margin-left: 3rem;
-    padding-left: 3.5rem;
-}
-
-.border-2 {
-    margin-top: 2.5rem;
-    margin-bottom: 4rem;
-    margin-left: 3rem;
-}
-
-.fnt-11 {
-    padding-top: 1rem;
-    font-size: 21px;
-}
-
-.fnt-12 {
-    font-size: 15px;
+    height: 350px;
 }
 
 .paddn-lft {
