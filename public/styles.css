@@ -57,7 +57,7 @@
 }
 
 main {
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .undrlnd {
@@ -76,6 +76,16 @@ main {
 .padding-tp-btm {
     padding-top: 1rem;
     padding-bottom: 1rem;
+}
+
+.padding-tp-btm-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.padding-tp-btm-3 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 }
 
 .no-p {
@@ -114,6 +124,10 @@ main {
 
 .text-light {
     background-color: #2a2a2a;
+}
+
+.text-white {
+    font-size: 24px;
 }
 
 .light-text {
