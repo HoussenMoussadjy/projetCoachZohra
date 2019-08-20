@@ -60,6 +60,10 @@ main {
     font-size: 17px;
 }
 
+h1, h2 {
+    font-size: 19px;
+}
+
 .undrlnd {
     text-decoration: underline;
 }
